@@ -1,6 +1,6 @@
 # 今天做了一个点击按钮飘动心形的简单动画，效果如下： 
 
-[gifAnimate.gif]:https://github.com/PetryChan/HeartView/blob/master/gifAnimate.gif
+![gifAnimate](https://github.com/PetryChan/HeartView/blob/master/gifAnimate.gif) 
  
 ***
 ### 每点击一下按钮，就生成一个心形，并执行飘动的动画。封装heartView主要就两件事：1.画一个心形 2.执行动画
